@@ -1,6 +1,8 @@
 # Sorting Algorithms
 The following are sorting algorithms that I created without referencing existing algorithms, but they happened to be similar in some ways. These were random ideas I came up with out of boredom or just random thoughts. They are not the most efficient, but somehow they work.
 
+I do not claim everything as mine, cause I am uncertain whether someone already created this before.
+
 1. <strong>Super Sort</strong><br>
     While attending class, I tried to draw a sorting simulation in my notebook, and my classmate turned it into C/C++ code—and it really works.
     
@@ -51,5 +53,6 @@ The following are sorting algorithms that I created without referencing existing
     ```
 
     This is somewhat similar to the concept of counting sort; it just uses a map.
+
 
 
