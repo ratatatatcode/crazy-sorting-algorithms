@@ -1,7 +1,7 @@
 # Sorting Algorithms
 The following are sorting algorithms that I created without referencing existing algorithms, but they happened to be similar in some ways. These were random ideas I came up with out of boredom or just random thoughts. They are not the most efficient, but somehow they work.
 
-1. Super Sort
+1. <strong>Super Sort</strong><br>
     While attending class, I tried to draw a sorting simulation in my notebook, and my classmate turned it into C/C++ code—and it really works.
     
     Super Sort performs gap-based swaps with gaps of 2 and 3, includes adjacent refinement, executes forward and backward passes, and checks for sortedness; it combines elements of Bubble Sort, Cocktail Shaker Sort (bidirectional Bubble Sort), Shell Sort, Odd-Even Sort (Brick Sort), and Insertion Sort.
@@ -29,7 +29,7 @@ The following are sorting algorithms that I created without referencing existing
 
     ![Super Sort | Notebook Simulation](images/super_sort.png)
 
-2. Map Sort
+2. <strong>Map Sort</strong><br>
     While I was trying to look for a thesis topic in computer science, I thought, "How about sorting using a map?" The algorithm works by looping from 0 or 1 (or the lowest number), counting the occurrences, and storing them in a map. It is similar to counting sort, but mine performs worse.
     
     ```js
@@ -51,4 +51,5 @@ The following are sorting algorithms that I created without referencing existing
     ```
 
     This is somewhat similar to the concept of counting sort; it just uses a map.
+
 
