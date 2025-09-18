@@ -31,6 +31,8 @@ The following are sorting algorithms that I created without referencing existing
     Backward pass then corrects misplaced smaller numbers.
     ```
 
+    ![Super Sort | Notebook Simulation](images/super_sort.png)
+
 2. Map Sort
     While I was trying to look for a thesis topic in computer science, I thought, "How about sorting using a map?" The algorithm works by looping from 0 or 1 (or the lowest number), counting the occurrences, and storing them in a map. It is similar to counting sort, but mine performs worse.
     
