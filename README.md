@@ -53,3 +53,5 @@ The following are sorting algorithms that I created without referencing existing
     console.log("Expanded:", expanded);
     // Example output: [1, 2, 2, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     ```
+
+    This is somewhat similar to the concept of counting sort; it just uses a map.
