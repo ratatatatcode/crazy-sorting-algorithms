@@ -8,10 +8,6 @@ The following are sorting algorithms that I created without referencing existing
     
     Upon searching, I found that there isn’t an existing hybrid sorting algorithm like this, so I can claim to be the first.
 
-    ```js
-    const arr = [7, 3, 8, 1, 5, 2, 6, 4];
-    ```
-    
     ```
     Given arr = [7, 3, 8, 1, 5, 2, 6, 4]:
     
@@ -55,3 +51,4 @@ The following are sorting algorithms that I created without referencing existing
     ```
 
     This is somewhat similar to the concept of counting sort; it just uses a map.
+
